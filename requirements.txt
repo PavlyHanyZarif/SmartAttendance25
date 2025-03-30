@@ -1,0 +1,13 @@
+flet
+qrcode
+opencv-python
+pyzbar
+pandas
+sqlite3
+datetime
+random
+os
+cv2
+time
+threading
+webbrowser
